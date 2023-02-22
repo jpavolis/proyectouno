@@ -1,1 +1,1 @@
-# proyectouno
+Este es un mensaje de prueba de git y github, para aprender a sincronizar los repositorios con el local.
